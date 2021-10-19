@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pedro_Newbie <backupsuite@outlook.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgid ""
+"\n"
+"The found files:"
+msgstr ""
+"\n"
+"找到的文件:"
+
+msgid "  %s (maybe error)"
+msgstr " %s (可能错误)"
+
+msgid "  %s (maybe ok)"
+msgstr " %s (可能正确)"
+
+msgid " MB available space"
+msgstr " MB 可用空间"
+
+msgid " MB needed space"
+msgstr " MB 需要空间"
+
+msgid " nothing!"
+msgstr "nothing!"
+
+msgid " size to be backed up: "
+msgstr " 要备份的大小: "
+
+msgid " to make a back-up!"
+msgstr " 开始备份固件!"
+
+msgid "* * * WARNING * * *"
+msgstr "* * *警告 * * *"
+
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"start a flashing."
+msgstr "当前正在运行录制。请在开始闪烁前 停止录制."
+
+msgid "Additional backup -> "
+msgstr "附加备份 -> "
+
+msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
+msgstr "备份工具，用于制作完整的备份"
+
+msgid "Backup > HDD"
+msgstr "备份到硬盘"
+
+msgid "Backup > USB"
+msgstr "备份到USB"
+
+msgid "Backup done with: "
+msgstr "备份完成于: "
+
+msgid "Backup finished and copied to your USB-flashdrive."
+msgstr "备份完成并复制到USB."
+
+msgid "BackupSuite"
+msgstr "备份固件"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Create: kerneldump"
+msgstr "创建: Kerneldump"
+
+msgid "Create: root.ubifs"
+msgstr "创建: root.ubifs"
+
+msgid "Do you really want to unpack %s ?"
+msgstr "你真的要解包 %s ?"
+
+msgid ""
+"Do you want to make a back-up on USB?\n"
+"\n"
+"This only takes a few minutes depending on the used filesystem and is fully "
+"automatic.\n"
+"\n"
+"Make sure you first insert an USB flash drive before you select Yes."
+msgstr ""
+"你想在USB上备份吗?\n"
+"\n"
+"根据所使用的文件系统，这只需要几分钟，而且是完全 自动的.\n"
+"\n"
+"在选择“是”之前，请确保先插入USB闪存驱动器."
+
+msgid ""
+"Do you want to make an USB-back-up image on HDD? \n"
+"\n"
+"This only takes a few minutes and is fully automatic.\n"
+msgstr ""
+"你想在硬盘上备份吗? \n"
+"\n"
+"这只需要几分钟，而且是完全自动的.\n"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Flashing: "
+msgstr "刷新:"
+
+msgid "For flashing your receiver files are needed:\n"
+msgstr "要刷新机顶盒固件，需要文件:\n"
+
+msgid "Full back-up direct to USB"
+msgstr "直接备份到USB"
+
+msgid "Full back-up on HDD"
+msgstr "硬盘上完全备份"
+
+msgid "Full back-up to USB"
+msgstr "完全备份到USB"
+
+msgid "Full back-up to the harddisk"
+msgstr "完全备份到硬盘"
+
+msgid ""
+"If you place an USB-stick containing this file then the back-up will be "
+"automatically made onto the USB-stick and can be used to restore the current "
+"image if necessary."
+msgstr ""
+"If you place an USB-stick containing this file then the back-up will be "
+"automatically made onto the USB-stick and can be used to restore the current "
+"image if necessary."
+
+msgid "Image creation FAILED!"
+msgstr "固件创建失败!"
+
+msgid "KB per second"
+msgstr "KB/s"
+
+msgid "Make a backup or restore a backup"
+msgstr "备份或还原备份"
+
+msgid ""
+"Most likely this back-up can't be restored because of it's size, it's simply "
+"too big to restore. This is a limitation of the bootloader not of the back-"
+"up or the BackupSuite."
+msgstr ""
+"Most likely this back-up can't be restored because of it's size, it's simply "
+"too big to restore. This is a limitation of the bootloader not of the back-"
+"up or the BackupSuite."
+
+msgid "NOT found files for flashing!\n"
+msgstr "找不到要刷机的文件 !\n"
+
+msgid "No supported receiver found!"
+msgstr "找不到支持的机顶盒!"
+
+msgid "Not enough free space on "
+msgstr "剩余空间不足 "
+
+msgid "Only kernel"
+msgstr "Only kernel"
+
+msgid "Only kernel with use mtdx device"
+msgstr "Only kernel with use mtdx device"
+
+msgid "Only root"
+msgstr "仅限 root"
+
+msgid "Only root with use mtdy device"
+msgstr "Only root with use mtdy device"
+
+msgid "PLEASE READ THIS:"
+msgstr "请阅读:"
+
+msgid "Please be patient, a backup will now be made, this will take about: "
+msgstr "请耐心等待，现在将进行备份，大约需要: "
+
+msgid "Please check the manual of the receiver on how to restore the image."
+msgstr "请查看机顶盒的手册，了解如何恢复固件."
+
+msgid "Please: DO NOT reboot your STB and turn off the power.\n"
+msgstr "请：不要重启机顶盒或关闭电源 !\n"
+
+msgid "Restore backup"
+msgstr "恢复备份"
+
+msgid "Run flash"
+msgstr "开始刷机"
+
+msgid "Select parameter for start flash!\n"
+msgstr "选择参数用于开始刷机!\n"
+
+msgid "Select the folder with backup"
+msgstr "选择带备份的文件夹"
+
+msgid "Show only found image and mtd partitions.\n"
+msgstr "仅显示找到的固件和MTD分区.\n"
+
+msgid "Simulate (no write)"
+msgstr "模拟（不写）"
+
+msgid "Some information about the task"
+msgstr "关于任务的一些信息"
+
+msgid "Standard (root and kernel)"
+msgstr "Standard (root and Kernel)"
+
+msgid "The content of the folder is:"
+msgstr "文件夹的内容是:"
+
+msgid "The image or kernel will be flashing and auto booted in few minutes.\n"
+msgstr "固件或内核将在几分钟内刷新并自动启动.\n"
+
+msgid ""
+"The program will abort, please try another medium with more free space to "
+"create your back-up."
+msgstr "程序将中止，请尝试其他具有更多可用空间的媒体以创建备份."
+
+msgid "The program will exit now."
+msgstr "程序将立即退出."
+
+msgid ""
+"There COULD be a problem with restoring this back-up because the size of the "
+"back-up comes close to the maximum size. This is a limitation of the "
+"bootloader not of the back-up or the BackupSuite."
+msgstr ""
+"There COULD be a problem with restoring this back-up because the size of the "
+"back-up comes close to the maximum size. This is a limitation of the "
+"bootloader not of the back-up or the BackupSuite."
+
+msgid "There is NO valid USB-stick found, so I've got nothing to do."
+msgstr "没有找到有效的U盘，所以我没什么事可做...."
+
+msgid ""
+"There is a valid USB-flashdrive detected in one of the USB-ports, therefore "
+"an extra copy of the back-up image will now be copied to that USB-flashdrive."
+msgstr ""
+"There is a valid USB-flashdrive detected in one of the USB-ports, therefore "
+"an extra copy of the back-up image will now be copied to that USB-flashdrive."
+
+msgid "This only takes about 20 seconds....."
+msgstr "这只需要大约20秒....."
+
+msgid "Time required for this process: "
+msgstr "此过程所需的时间: "
+
+msgid ""
+"To back-up directly to the USB-stick, the USB-stick MUST contain a file with "
+"the name:"
+msgstr "要直接备份到U盘，U盘必须包含名为的文件："
+
+msgid "USB Image created in: "
+msgstr "USB Image 创建在: "
+
+msgid "Unzip"
+msgstr "Unzip"
+
+msgid ""
+"Warning!\n"
+"Use at your own risk! Make always a backup before use!\n"
+"Don't use it if you use multiple ubi volumes in ubi layer!"
+msgstr ""
+"警告 !\n"
+"自担风险使用！使用前始终备份!\n"
+"如果在UBI层中使用多个UBI卷，则不要使用它!"
+
+msgid "What is new since the last release?"
+msgstr "自上次发布以来有什么新功能?"
+
+msgid "Your STB will freeze during the flashing process.\n"
+msgstr "您的机顶盒在刷机过程中会锁定.\n"
+
+msgid "and there is made an extra copy in: "
+msgstr "另外还有一份: "
+
+msgid "available "
+msgstr "available "
+
+msgid "backupstick or"
+msgstr "backupstick or"
+
+msgid "backupstick.txt"
+msgstr "backupstick.txt"
+
+msgid "current:  %s"
+msgstr "当前:  %s"
+
+msgid "minutes"
+msgstr "分钟"
+
+msgid "not found, the backup process will be aborted!"
+msgstr "未找到，备份过程将中止!"
+
+msgid "ofgwrite will stop enigma2 now to run the flash.\n"
+msgstr "为了刷新固件，程序现在将停止Enigma2.\n"
